@@ -31,9 +31,7 @@ class MainActivity : ComponentActivity() {
                     TextField(
                         value = value.toString(),
                         onValueChange = {
-                            value = if (it.isNotEmpty()) {
-                                it.toInt()
-                            } else 0
+                            value = if (it.isNotEmpty()) it.toInt() else 0
                         },
                         keyboardOptions = KeyboardOptions(
                             keyboardType = KeyboardType.Number
