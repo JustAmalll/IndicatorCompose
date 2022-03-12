@@ -1,4 +1,4 @@
 # IndicatorCompose
 Custom UI Component with Jetpack Compose
 
-![indicator_preview](https://user-images.githubusercontent.com/85354530/158013773-72813aa2-ef80-45ef-95b0-33e6b622c920.gif)
+https://user-images.githubusercontent.com/85354530/158013913-21a71f71-0099-4bf5-ad5e-f70f68fa9dca.mp4
